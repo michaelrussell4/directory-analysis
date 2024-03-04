@@ -1,0 +1,26 @@
+# Python
+*.pyc
+__pycache__/
+venv/
+*.egg-info/
+dist/
+build/
+
+# PowerShell
+*.ps1xml
+*.psm1
+*.psd1
+*.pssc
+*.cdxml
+*.xaml
+*.psess
+*.pssc
+
+# Editors
+.vscode/
+
+# Other
+*.log
+*.bak
+*.swp
+.DS_Store
